@@ -1,0 +1,13 @@
+C:\Users\Vinicius\Desktop\MVCConsole\bin\Debug\netcoreapp3.1\MVCConsole.exe
+C:\Users\Vinicius\Desktop\MVCConsole\bin\Debug\netcoreapp3.1\MVCConsole.deps.json
+C:\Users\Vinicius\Desktop\MVCConsole\bin\Debug\netcoreapp3.1\MVCConsole.runtimeconfig.json
+C:\Users\Vinicius\Desktop\MVCConsole\bin\Debug\netcoreapp3.1\MVCConsole.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\MVCConsole\bin\Debug\netcoreapp3.1\MVCConsole.dll
+C:\Users\Vinicius\Desktop\MVCConsole\bin\Debug\netcoreapp3.1\MVCConsole.pdb
+C:\Users\Vinicius\Desktop\MVCConsole\obj\Debug\netcoreapp3.1\MVCConsole.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\MVCConsole\obj\Debug\netcoreapp3.1\MVCConsole.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\MVCConsole\obj\Debug\netcoreapp3.1\MVCConsole.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\MVCConsole\obj\Debug\netcoreapp3.1\MVCConsole.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\MVCConsole\obj\Debug\netcoreapp3.1\MVCConsole.dll
+C:\Users\Vinicius\Desktop\MVCConsole\obj\Debug\netcoreapp3.1\MVCConsole.pdb
+C:\Users\Vinicius\Desktop\MVCConsole\obj\Debug\netcoreapp3.1\MVCConsole.genruntimeconfig.cache
